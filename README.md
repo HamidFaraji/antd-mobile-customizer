@@ -1,11 +1,12 @@
 # AntD Mobile Customizer
+AntD Mobile Customizer is set of helpers and tools allow you to customize [antd-mobile](https://mobile.ant.design/) in both **react-native** and **web**.
 
 ## Add to your projects
 1. Create a folder named `theme` or whatever you want.
 2. Change all of `antd-mobile` imports to this folder. for example
 
 ```javascript
-import { Button } from 'antd-mobile`;
+import { Button } from 'antd-mobile';
 ```
 to
 
