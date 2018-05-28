@@ -3,7 +3,8 @@ AntD Mobile Customizer is set of helpers and tools allow you to customize [antd-
 
 ## Add to your projects
 1. Create a folder named `theme` or whatever you want.
-2. Change all of `antd-mobile` imports to this folder. for example
+2. Copy all of `src` directory files of this repo in this you `theme`.
+3. Change all of `antd-mobile` imports to this folder. for example
 
 ```javascript
 import { Button } from 'antd-mobile';
